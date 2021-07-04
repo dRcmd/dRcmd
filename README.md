@@ -11,7 +11,7 @@ I'm Ömer Faruk!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ofarukkutluay/)](https://www.linkedin.com/in/ofarukkutluay/) [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:ofarukkutluay@outlook.com)](mailto:ofarukkutluay@outlook.com)
 
   
-## 🛠 Technologies & Tools 
+### 🛠 Technologies & Tools 
 
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white"></img>
