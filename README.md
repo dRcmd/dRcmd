@@ -1,6 +1,6 @@
-[![GitHub followers](https://img.shields.io/github/followers/dRcmd?style=social)](https://github.com/dRcmd?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/dRcmd?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=dRcmd.visitor-badge)](https://GitHub.com/dRcmd/StrapDown.js/stargazers/)
+[![GitHub followers](https://img.shields.io/github/followers/ofarukkutluay?style=social)](https://github.com/ofarukkutluay?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/ofarukkutluay?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=ofarukkutluay.visitor-badge)](https://gitHub.com/ofarukkutluay/StrapDown.js/stargazers/)
 
 
 # Hi there 👋
@@ -15,8 +15,8 @@ I'm Ömer Faruk!
 
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white%22%3E"></img>
-<img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white%22%3E"></img>
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white"></img>
@@ -31,7 +31,7 @@ I'm Ömer Faruk!
 
 
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dRcmd&layout=compact&show_icons=true&theme=light">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukkutluay&layout=compact&show_icons=true&theme=light">
   </p>
 
 </p>
