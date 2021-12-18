@@ -12,7 +12,7 @@ I'm Ömer Faruk!
 
 ### Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ofarukkutluay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ofarukkutluay&theme=juicyfresh&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 ### 🛠 Technologies & Tools 
