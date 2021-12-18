@@ -34,7 +34,7 @@ I'm Ömer Faruk!
 
 
 
-  <p>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukkutluay&layout=compact&show_icons=true&theme=light">
   </p>
 
