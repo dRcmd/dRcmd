@@ -16,7 +16,7 @@ I'm Ömer Faruk!
 
   
 ### 🛠 Technologies & Tools 
-
+<p align="center">
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white"></img>
@@ -31,11 +31,10 @@ I'm Ömer Faruk!
 <img src="https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=white"></img>
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></img>
-
+</p>
 
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukkutluay&layout=compact&show_icons=true&theme=light">
   </p>
 
-</p>
